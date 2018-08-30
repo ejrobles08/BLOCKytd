@@ -2,9 +2,11 @@
 # with a dash of crowd sourcing via Github
 #
 # Date: August 30 2018
-# To:  social, media
-# Number of unique domains: 4
+# Extensions added to this file: Multimedia
 #
+# Fetch the latest version of this file: https://raw.githubusercontent.com/ejrobles08/BLOCKytd/master/alternates/social/hosts
+# Project home page:  https://github.com/ejrobles08/BLOCKytd
+# Project releases: https://github.com/ejrobles08/hosts/releases
 #
 # ===============================================================
 
@@ -27,7 +29,7 @@ ff02::3 ip6-allhosts
 
 
 # End of custom host records.
-# Start Youtube
+# Start ejrobles08
 
 #=====================================
 
@@ -37,7 +39,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.youtube.com
 0.0.0.0 ytimg.com
 0.0.0.0 googlevideo.com
-
 
 # blacklist
 
