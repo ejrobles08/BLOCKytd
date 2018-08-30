@@ -27,22 +27,19 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
-
-# End of custom host records.
-# Start ejrobles08
-
-#=====================================
-
-# Hosts contributed by Johny Bravo
-
 0.0.0.0 www.youtube.com
 0.0.0.0 m.youtube.com
 0.0.0.0 ytimg.com
 0.0.0.0 googlevideo.com
 
-# blacklist
+# End of custom host records.
+# Start StevenBlack
 
-#
+#=====================================
+
+# Hosts contributed by Steven Black
+
+# http://stevenblack.com
 
 # The contents of this file (containing a listing of additional domains in
 
