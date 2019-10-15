@@ -27,9 +27,11 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
-0.0.0.0 www.youtube.com
-0.0.0.0 m.youtube.com
-0.0.0.0 www.ytimg.com
+127.0.0.1 www.youtube.com
+127.0.0.1 m.youtube.com
+127.0.0.1 www.ytimg.com
+127.0.0.1 www.netflix.com
+127.0.0.1 netflix.com
 
 # End of custom host records.
 # Start StevenBlack
