@@ -39,8 +39,22 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.youtube.com
 0.0.0.0 ytimg.com
 0.0.0.0 googlevideo.com
-127.0.0.1 www.netflix.com
-127.0.0.1 netflix.com
+0.0.0.0 www.netflix.apps.co.pl
+0.0.0.0 www.netflix.com
+0.0.0.0 netflix.com
+0.0.0.0 ads.netflix.com
+0.0.0.0 beacon.netflix.com
+0.0.0.0 beacon.geo.netflix.com
+0.0.0.0 nmtracking.netflix.com
+0.0.0.0 presentationtracking.netflix.com
+0.0.0.0 beacon.eu-west-1.prodaa.netflix.com
+0.0.0.0 ads.us-east-1.prodaa.netflix.com
+0.0.0.0 beacon.us-east-1.prodaa.netflix.com
+0.0.0.0 ads.us-west-2.prodaa.netflix.com
+0.0.0.0 beacon.us-west-2.prodaa.netflix.com
+0.0.0.0 ads.test.netflix.com
+0.0.0.0 netflix.apple-green.net
+0.0.0.0 netflix.apps.co.pl
 
 # blacklist
 
