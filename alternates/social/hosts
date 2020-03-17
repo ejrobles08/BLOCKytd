@@ -40,7 +40,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ytimg.com
 0.0.0.0 googlevideo.com
 0.0.0.0 www.netflix.apps.co.pl
-0.0.0.0 www.netflix.com
+0.0.0.0 https://www.netflix.com
 0.0.0.0 netflix.com
 0.0.0.0 ads.netflix.com
 0.0.0.0 beacon.netflix.com
