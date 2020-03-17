@@ -39,8 +39,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.youtube.com
 0.0.0.0 ytimg.com
 0.0.0.0 googlevideo.com
-0.0.0.0 www.netflix.com
-0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com/ph/
+0.0.0.0 netflix.com/ph/
 
 # blacklist
 
